@@ -10,8 +10,6 @@ Repositório destinado ao armazenamento de exercícios e atividades desenvolvido
 
 ## Conteúdo
 
-# Orientação a Objetos em Java
-
 - Classes e objetos
 - Instanciação
 - Encapsulamento 
@@ -20,7 +18,6 @@ Repositório destinado ao armazenamento de exercícios e atividades desenvolvido
 - Estruturas condicionais 
 - Entrada e saída de dados
 - Relacionamento entre classes
-
 
 ## Objetivo
 
